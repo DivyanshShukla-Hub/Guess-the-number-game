@@ -1,13 +1,13 @@
 # Guess-the-number-game
 a small Game (little little changes lead to big step)
      #include <stdio.h>
-          #include <stdlib.h>
-          #include <time.h>
+     #include <stdlib.h>
+     #include <time.h>
 
-int main() {
-             int number, guess, attempts = 0;
+     int main() {
+     int number, guess, attempts = 0;
        
-  // Use current time as seed for random number
+    // Use current time as seed for random number
     srand(time(0));
     number = rand() % 100 + 1; // Random number between 1 and 100
 
