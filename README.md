@@ -32,5 +32,5 @@ a small Game (little little changes lead to big step)
     } while (guess != number);
 
     return 0;
-}
+    }
 THANK YOU FOR GIVING YOUR TIME
