@@ -21,6 +21,7 @@ a small Game (little little changes lead to big step)
         scanf("%d", &guess);
         attempts++;
 
+
         if (guess > number) {
             printf("Too high! Try again.\n");
         } else if (guess < number) {
