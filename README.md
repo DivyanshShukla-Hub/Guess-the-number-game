@@ -28,6 +28,7 @@ a small Game (little little changes lead to big step)
         } else {
             printf("🎉 Congratulations! You guessed it in %d attempts.\n", attempts);
         }
+        
 
     } while (guess != number);
 
