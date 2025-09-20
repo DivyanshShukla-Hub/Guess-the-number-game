@@ -20,8 +20,6 @@ a small Game (little little changes lead to big step)
         printf("Enter your guess: ");
         scanf("%d", &guess);
         attempts++;
-
-
         if (guess > number) {
             printf("Too high! Try again.\n");
         } else if (guess < number) {
