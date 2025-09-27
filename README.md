@@ -7,7 +7,7 @@ a small Game (little little changes lead to big step)
      int main() {
      int number, guess, attempts = 0;
        
-    // Use current time as seed for random number
+    
     srand(time(0));
     number = rand() % 100 + 1; // Random number between 1 and 100
 
@@ -15,7 +15,7 @@ a small Game (little little changes lead to big step)
     printf("I have chosen a number between 1 and 100.\n");
     printf("Can you guess it?\n\n");
 
-    // Loop until the user guesses the number
+    
     do {
         printf("Enter your guess: ");
         scanf("%d", &guess);
