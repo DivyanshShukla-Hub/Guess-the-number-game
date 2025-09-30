@@ -4,7 +4,7 @@ a small Game (little little changes lead to big step)
      #include <stdlib.h>
      #include <time.h>
 
-     int main() {
+     int main() { 
      int number, guess, attempts = 0;
        
     
