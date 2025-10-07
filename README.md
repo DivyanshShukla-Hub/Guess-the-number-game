@@ -33,7 +33,7 @@ a small Game (little little changes lead to big step)
 
     return 0;
     }
-THANK YOU FOR GIVING YOUR TIME 
+THANK YOU FOR GIVING YOUR TIME  
 
  
 REGARDS
