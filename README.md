@@ -11,7 +11,7 @@ a small Game (little little changes lead to big step)
     srand(time(0));
     number = rand() % 100 + 1; // Random number between 1 and 100
 
-    printf("🎯 Welcome to the Guess the Number Game!\n");
+    printf("🎯 Welcome to the Guess the Number Game!\n"); 
     printf("I have chosen a number between 1 and 100.\n");
     printf("Can you guess it?\n\n");
 
